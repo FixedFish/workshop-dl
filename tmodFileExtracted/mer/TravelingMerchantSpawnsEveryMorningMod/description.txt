@@ -1,0 +1,1 @@
+Forces the Traveling Merchant to spawn each morning at 4:30 AM as long as the vanilla spawn conditions are met (two NPCs housed and no active events)
