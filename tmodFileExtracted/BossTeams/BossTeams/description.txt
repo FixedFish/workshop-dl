@@ -1,0 +1,7 @@
+This mod allows bosses to inherit the team type of the person who summoned them.
+Only players of that team can attack the boss.
+Made by request from Throarbin on discord
+
+Join the Discord! => discord.gg/G5cbT7tj9K
+
+Mod icon border made by otterly
